@@ -1,0 +1,6 @@
+{"level":"info","message":"Email 1 sent successfully via Provider1","timestamp":"2024-08-25T07:06:14.435Z"}
+{"level":"info","message":"Email 1 sent successfully via Provider1","timestamp":"2024-08-25T07:06:18.420Z"}
+{"level":"info","message":"Failed to send email 1 via Provider1: Random failure","timestamp":"2024-08-25T07:06:21.672Z"}
+{"level":"info","message":"Email sent successfully","timestamp":"2024-08-25T07:06:21.677Z"}
+{"level":"info","message":"Email 1 sent successfully via Provider1","timestamp":"2024-08-25T07:07:58.424Z"}
+{"level":"info","message":"Email 1 sent successfully via Provider1","timestamp":"2024-08-25T08:37:22.874Z"}
