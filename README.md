@@ -51,7 +51,6 @@ npm test
 - **Retry Logic**: Exponential backoff is implemented for retrying email sends. The number of retries and the initial delay can be adjusted.
 - **Circuit Breaker**: A circuit breaker pattern is used to prevent the system from trying to send emails through a provider that has failed repeatedly.
 
-## License
 
 ### **2. Unit Tests**
 
